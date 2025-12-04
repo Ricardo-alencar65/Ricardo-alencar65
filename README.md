@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👨🏻‍💻 Ricardo
 
-<!--
-**Ricardo-alencar65/Ricardo-alencar65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Front-End**
 
-Here are some ideas to get you started:
+📍 Belo Horizonte, MG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUC-Minas. Sou apaixonado por tecnologia e movido por novos desafios.
+
+💼 Atualmente: Trabalho como Desenvolvedor Júnior em uma startup focada em Inteligência Artificial, onde:
+
+Desenvolvo interfaces modernas utilizando React e TypeScript.
+
+Contribuo no Back-End utilizando Node.js.
+
+Sou responsável pelo gerenciamento de containers (Docker) das aplicações.
