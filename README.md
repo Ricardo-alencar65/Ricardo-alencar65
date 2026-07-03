@@ -4,7 +4,7 @@
 
 📍 Belo Horizonte, MG
 
-Olá! Tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUC-Minas. Sou apaixonado por tecnologia e movido por novos desafios.
+Olá! Tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUC-Minas. Sou apaixonado por tecnologia e movido por novos desafios.
 
 💼 Atualmente: Trabalho como Desenvolvedor Júnior em uma startup focada em Inteligência Artificial, onde:
 
